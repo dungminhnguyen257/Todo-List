@@ -86,7 +86,7 @@ This project is a web-based to-do list app.
 - [React.js](https://reactjs.org/)
 - [Express](https://svelte.dev/)
 - [Postgres](https://laravel.com)
-- [StyledComponent](https://getbootstrap.com)
+- [StyledComponent](https://styled-components.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
